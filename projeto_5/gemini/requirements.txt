@@ -1,0 +1,8 @@
+gradio
+pypdf                      # Ou pdfminer.six, PyPDF2
+langchain                  # Ou llama-index
+openai                     # Se estiver usando OpenAI LLM e embeddings
+chromadb                   # Ou faiss-cpu, pinecone-client
+python-dotenv              # Para carregar variáveis de ambiente
+tiktoken                   # Para contagem de tokens (útil com OpenAI)
+langchain-community
